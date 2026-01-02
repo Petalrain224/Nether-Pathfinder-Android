@@ -1,0 +1,4 @@
+/storage/emulated/0/WorkingPlace/Baritone/nether-pathfinder/build_android/CMakeFiles/nether_pathfinder.dir
+/storage/emulated/0/WorkingPlace/Baritone/nether-pathfinder/build_android/CMakeFiles/verify_all.dir
+/storage/emulated/0/WorkingPlace/Baritone/nether-pathfinder/build_android/CMakeFiles/edit_cache.dir
+/storage/emulated/0/WorkingPlace/Baritone/nether-pathfinder/build_android/CMakeFiles/rebuild_cache.dir
