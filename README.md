@@ -1,4 +1,4 @@
-# Nether Pathfinder Mobile
+# Nether Pathfinder Android
 安卓上的#Elytra指令！
 
 本项目基于nether-pathfinder。原仓库：https://github.com/babbaj/nether-pathfinder。
